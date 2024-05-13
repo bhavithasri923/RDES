@@ -44,9 +44,17 @@ function getBotResponse(input) {
 
     if (input == "hello") {
         return "Hello there! how can I assist you ?";
-    } else if (input == "goodbye") {
-        return "Talk to you later!";
-    } else {
+    }else if (input == "Hello"){
+        return "Hello there! how can I assist you ?";
+    }else if (input == "Hi") {
+        return "Hello there! how can I assist you ?";
+    }else if (input == "hi") {
+        return "Hello there! how can I assist you ?";
+    }else if (input == "Good Morning") {
+        return "Very Good Morning";
+    }else if (input == "Good afternoon") {
+        return "Good noon";
+    }else {
         return "I can't understand what you are saying, try asking something else!";
     }
 }
