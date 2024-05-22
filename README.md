@@ -18,9 +18,7 @@ Industry: Education
 
 2.Ganesh Mucharla  (Documentation) :Responsible for managing the documentation process.
 
-3.Ramyasree Janagam (Images, logos and chat bot questions) :Responsible for image searching, logo creation and chat bot questions)
-
-4.SHAIK HUSSAIN (Deployment) :Deployment and maintenance of project infrastructure.
+3.SHAIK HUSSAIN (Deployment) :Deployment and maintenance of project infrastructure.(Images, logos and chat bot questions) Responsible for image searching, logo creation and chat bot questions)
 
 # Azure services used:
 
